@@ -3,7 +3,7 @@
 Este repositório contém os materiais da disciplina **Informática**.
 
 ## 📂 Materiais disponíveis
-- **[Slides da Aula 1](Aula_1_Apresentação_e_Introducao_a_informatica.pptx)**  
+- **[Slides da Aula 1](Aula_1_Apresentação_e_Introducao_Excel_.pdf)**  
 - **[Exercícios](Exercícios_Aula1.docx)**  
 - **[Planejamento](Planejamento%20Agronomia.pdf)**  
 
