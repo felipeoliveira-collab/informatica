@@ -1,4 +1,4 @@
-# 💻 Disciplina de Informática - Agronomia
+# 💻 Disciplina de Informática - Agronomia e Biologia
 
 Este repositório contém os materiais da disciplina **Informática** para o curso de Agronomia.
 
