@@ -1,4 +1,4 @@
-# 💻 Disciplina de Informática - Agronomia e Biologia
+# 💻 Disciplina de Informática - Agronomia
 
 Este repositório contém os materiais da disciplina **Informática** para o curso de Agronomia.
 
@@ -8,7 +8,7 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 
 ### Aula 1 - Introdução à Informática e Excel
 - 📎 Slides: [Aula_1_Apresentação_e_Introducao_Excel_.pdf](Aula_1_Apresentação_e_Introducao_Excel_.pdf)
-- 📎 Exercícios: [Exercícios_Aula1.docx](Exercicios_Questoes_Biologia.docx)
+- 📎 Exercícios: [Exercícios_Aula1.docx](Exercicios_Questoes.docx)
 
 ### Aula 2
 - 📎 Slides: *(a ser adicionado)*
