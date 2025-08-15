@@ -13,7 +13,7 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 ### Aula 2
 - 📎 Slides: [Aula_2_Excel_funcoes.pdf](Aula_2_Excel_funcoes.pdf)
 - 📎 Exercícios: [Exercicios_Questoes.docx](Exercicios_Questoes.docx)
-- 📚 Simulado para a prova: [Simulado]([Simulado](https://forms.gle/VrotDTT133aZ6mFK6))
+- 📚 Simulado para a prova: [Simulado](https://forms.gle/VrotDTT133aZ6mFK6)
 
 ### Aula 3 - Prova
 - 📎 Prova: *(a ser adicionada)*
