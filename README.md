@@ -17,7 +17,7 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 
 ### Aula 3 - Prova
 - 📎 Prova: *(Dia 18/08)*
-- Notas:  [Nota_1_Informatica_Agronomia.pdf](Nota_1_Informatica_Agronomia)
+- Notas:  [Nota_1_Informatica_Agronomia.pdf](Nota_1_Informatica_Agronomia.pdf)
 
 ### Aula 4
 - 📎 Slides: *(a ser adicionado)*
