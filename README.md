@@ -24,8 +24,8 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 - 📎 Exercícios: [exercicios_powerpoint.docx](exercicios_powerpoint.docx)
 
 ### Aula 5
-- 📎 Slides: *(a ser adicionado)*
-- 📎 Exercícios: *(a ser adicionado)*
+- 📎 Slides (Acesse e baixe seu arquivo de slides): [Slides_Alunos](Slides_Alunos)
+- 📎 Simulado: *(a ser adicionado)*
 
 ### Aula 6 - Prova
 - 📎 Prova: *(a ser adicionada)*
