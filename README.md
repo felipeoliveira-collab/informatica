@@ -26,7 +26,7 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 ### Aula 5
 - 📎 Slides (Acesse e baixe seu arquivo de slides): [Slides_Alunos](https://github.com/felipeoliveira-collab/informatica/tree/main/Slides_Alunos)
 
-- 📎 Simulado: *(a ser adicionado)*
+- 📎 Simulado: [Simulado](https://forms.gle/h4iLKM37ftkut2gDA)
 
 ### Aula 6 - Prova
 - 📎 Prova: *(a ser adicionada)*
