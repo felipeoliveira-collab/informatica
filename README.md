@@ -6,18 +6,19 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 
 ## 📚 Aulas e Materiais
 
-### Aula 1 - Introdução à Informática e Excel
+### Aula - Introdução à Informática e Excel
 - 📎 Slides: [Aula_1_Apresentação_e_Introducao_Excel_.pdf](Aula_1_Apresentação_e_Introducao_Excel_.pdf)
 - Material de apoio [Apostila sobre Excel.pdf](ApostilaExcel.pdf)
 
-### Aula 2
+### Aula
 - 📎 Slides: [Aula_2_Excel_funcoes.pdf](Aula_2_Excel_funcoes.pdf)
 - 📎 Exercícios: [Exercicios_Questoes.docx](Exercicios_Questoes.docx)
+- Planilha para atividade prática: [Encontre_e_corrija_os_erros.xlsx](Encontre_e_corrija_os_erros.xlsx)
 - 📚 Simulado para a prova: <https://forms.gle/VrotDTT133aZ6mFK6>
 
-### Aula 3 - Prova
-- 📎 Prova: *(Dia 18/08)*
-- Notas:  [Nota_1_Informatica_Agronomia.pdf](Nota_1_Informatica_Agronomia.pdf)
+### Prova
+- 📎 Prova: *(Dia 02/03)*
+- Notas:   
 
 ### Aula 4
 - 📎 Slides: *(a ser adicionado)*
