@@ -13,7 +13,7 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 ### Aula - prática
 - 📎 Slides: [Aula_2_Excel_funcoes.pdf](Aula_2_Excel_funcoes.pdf)
 - Planilha para atividade prática: [Encontre_e_corrija_os_erros.xlsx](Encontre_e_corrija_os_erros.xlsx)
-- Planilha para criar gráfico: [Atividade_Refletancia_Folhas](Atividade_Refletancia_Folhas)
+- Planilha para criar gráfico: [Atividade_Refletancia_Folhas.xlsx](Atividade_Refletancia_Folhas.xlsx)
 - 📚 Simulado para a prova: <https://forms.gle/ukQQTT9mgtKaF7mc7>
 
 ### Prova
