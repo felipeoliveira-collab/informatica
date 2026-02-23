@@ -10,11 +10,11 @@ Este repositório contém os materiais da disciplina **Informática** para o cur
 - 📎 Slides: [Aula_1_Apresentação_e_Introducao_Excel_.pdf](Aula_1_Apresentação_e_Introducao_Excel_.pdf)
 - Material de apoio [Apostila sobre Excel.pdf](ApostilaExcel.pdf)
 
-### Aula
+### Aula - prática
 - 📎 Slides: [Aula_2_Excel_funcoes.pdf](Aula_2_Excel_funcoes.pdf)
-- 📎 Exercícios: [Exercicios_Questoes.docx](Exercicios_Questoes.docx)
 - Planilha para atividade prática: [Encontre_e_corrija_os_erros.xlsx](Encontre_e_corrija_os_erros.xlsx)
-- 📚 Simulado para a prova: <https://forms.gle/VrotDTT133aZ6mFK6>
+- Planilha para criar gráfico: [Atividade_Refletancia_Folhas](Atividade_Refletancia_Folhas)
+- 📚 Simulado para a prova: <https://forms.gle/ukQQTT9mgtKaF7mc7>
 
 ### Prova
 - 📎 Prova: *(Dia 02/03)*
